@@ -24,4 +24,10 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:《失控》凯文·凯利</loc>
+		<lastmod>2022-01-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
 </urlset>
